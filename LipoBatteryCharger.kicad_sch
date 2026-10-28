@@ -4589,9 +4589,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "8mA"
+	(text "6mA"
 		(exclude_from_sim no)
-		(at 398.272 175.514 0)
+		(at 388.874 171.704 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4599,9 +4599,9 @@
 		)
 		(uuid "7f1155ea-dd86-4e6e-a376-7e3d51e74033")
 	)
-	(text "25mA"
+	(text "20mA"
 		(exclude_from_sim no)
-		(at 347.218 175.26 0)
+		(at 337.82 170.942 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5021,16 +5021,6 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 195.58) (xy 342.9 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17364c60-16a4-47f5-a5ba-56835e5a8031")
-	)
-	(wire
-		(pts
 			(xy 203.2 101.6) (xy 215.9 101.6)
 		)
 		(stroke
@@ -5091,7 +5081,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 139.7) (xy 393.7 139.7)
+			(xy 342.9 127) (xy 393.7 127)
 		)
 		(stroke
 			(width 0)
@@ -5101,7 +5091,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 139.7) (xy 342.9 147.32)
+			(xy 342.9 127) (xy 342.9 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5191,7 +5181,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 139.7) (xy 393.7 147.32)
+			(xy 393.7 127) (xy 393.7 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5291,6 +5281,16 @@
 	)
 	(wire
 		(pts
+			(xy 342.9 207.01) (xy 342.9 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "445d8062-a63d-4b13-9322-feca7b5753d4")
+	)
+	(wire
+		(pts
 			(xy 88.9 180.34) (xy 101.6 180.34)
 		)
 		(stroke
@@ -5308,6 +5308,26 @@
 			(type default)
 		)
 		(uuid "45da64f3-e70a-41d3-8500-98406800ad67")
+	)
+	(wire
+		(pts
+			(xy 304.8 177.8) (xy 342.9 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47318a3e-e55d-4ec5-b533-573ac3ee00b2")
+	)
+	(wire
+		(pts
+			(xy 342.9 162.56) (xy 342.9 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47952451-8864-4b32-91fa-69afeb5019ea")
 	)
 	(wire
 		(pts
@@ -5488,6 +5508,16 @@
 			(type default)
 		)
 		(uuid "65a61435-f5ae-4f52-ab88-44a4238695ac")
+	)
+	(wire
+		(pts
+			(xy 393.7 162.56) (xy 393.7 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66d4fcc6-123d-43fe-b524-2c07feebcc01")
 	)
 	(wire
 		(pts
@@ -5691,7 +5721,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 157.48) (xy 393.7 167.64)
+			(xy 393.7 144.78) (xy 393.7 154.94)
 		)
 		(stroke
 			(width 0)
@@ -5701,7 +5731,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 152.4) (xy 335.28 152.4)
+			(xy 317.5 139.7) (xy 335.28 139.7)
 		)
 		(stroke
 			(width 0)
@@ -5881,7 +5911,7 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 152.4) (xy 386.08 152.4)
+			(xy 368.3 139.7) (xy 386.08 139.7)
 		)
 		(stroke
 			(width 0)
@@ -6191,16 +6221,6 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 177.8) (xy 342.9 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dded5bef-b01b-41e4-b16c-35b77f2b51a8")
-	)
-	(wire
-		(pts
 			(xy 190.5 50.8) (xy 292.1 50.8)
 		)
 		(stroke
@@ -6341,7 +6361,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 157.48) (xy 342.9 167.64)
+			(xy 342.9 144.78) (xy 342.9 154.94)
 		)
 		(stroke
 			(width 0)
@@ -6378,6 +6398,16 @@
 			(type default)
 		)
 		(uuid "f51ad944-392e-40ce-9f5a-204e86d33b2c")
+	)
+	(wire
+		(pts
+			(xy 342.9 195.58) (xy 342.9 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5643730-3d78-4fa0-bb0b-08a3f14f10f9")
 	)
 	(wire
 		(pts
@@ -6489,6 +6519,16 @@
 		)
 		(uuid "138afdb7-c9c3-446e-913c-46539bfddbea")
 	)
+	(label "~{TC_ENABLED}"
+		(at 127 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1a51441a-d475-4cbe-8e51-68919d68f256")
+	)
 	(label "S+"
 		(at 50.8 25.4 0)
 		(effects
@@ -6589,8 +6629,8 @@
 		)
 		(uuid "748f86b9-b692-4076-89a0-54103f821f38")
 	)
-	(label "CC_ENABLED"
-		(at 317.5 152.4 0)
+	(label "~{CC_ENABLED}"
+		(at 317.5 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6630,7 +6670,7 @@
 		(uuid "89a23030-5e36-4ce6-95aa-b0368f1d8bb3")
 	)
 	(label "B+"
-		(at 342.9 203.2 0)
+		(at 342.9 215.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6709,6 +6749,16 @@
 		)
 		(uuid "ac1b5e02-3d60-488d-841d-0f0f801e1c2d")
 	)
+	(label "~{CC_ENABLED}"
+		(at 254 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "acb2302c-df69-47cc-aaa6-d91edadf1f79")
+	)
 	(label "4.2v"
 		(at 304.8 25.4 0)
 		(effects
@@ -6739,8 +6789,8 @@
 		)
 		(uuid "d2915586-b85b-481d-97a8-3041c70f9374")
 	)
-	(label "TC_ENABLED"
-		(at 368.3 152.4 0)
+	(label "~{TC_ENABLED}"
+		(at 368.3 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6760,7 +6810,7 @@
 		(uuid "ef3d9220-898a-4139-8063-0d485f680737")
 	)
 	(label "5v"
-		(at 342.9 139.7 0)
+		(at 342.9 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6792,7 +6842,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "33"
 			(at 396.24 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8819,6 +8869,214 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 393.7 158.75 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e248378-3504-40f7-8692-17cd22d854eb")
+		(property "Reference" "D4"
+			(at 396.24 157.4799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 396.24 160.0199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 393.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 393.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode"
+			(at 393.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 393.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 393.7 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cf56d13e-7cb8-45d1-8f23-bd8c24974163")
+		)
+		(pin "2"
+			(uuid "b13eaea8-0a13-4bdb-84e5-032ee558d87e")
+		)
+		(instances
+			(project "LipoBatteryCharger"
+				(path "/9408ae3f-3c4e-4eeb-bbe4-33ab1678b0d2"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 342.9 158.75 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e9b2a32-cf49-4699-9923-33a4894e038b")
+		(property "Reference" "D3"
+			(at 345.44 157.4799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 345.44 160.0199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 342.9 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 342.9 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode"
+			(at 342.9 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 342.9 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 342.9 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "624e7c03-6669-45bd-b6a2-3db327a5511d")
+		)
+		(pin "2"
+			(uuid "e23c76bb-4205-46ed-b9e1-b320a444c00a")
+		)
+		(instances
+			(project "LipoBatteryCharger"
+				(path "/9408ae3f-3c4e-4eeb-bbe4-33ab1678b0d2"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 88.9 107.95 0)
 		(unit 1)
@@ -9752,6 +10010,110 @@
 			(project "LipoBatteryCharger"
 				(path "/9408ae3f-3c4e-4eeb-bbe4-33ab1678b0d2"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 342.9 203.2 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73dd8d8b-3c20-4700-a998-bd2d2f0b37c8")
+		(property "Reference" "D5"
+			(at 345.44 201.9299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 345.44 204.4699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 342.9 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 342.9 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode"
+			(at 342.9 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 342.9 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 342.9 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4f2d08b7-382e-4553-aa92-d899ad901888")
+		)
+		(pin "2"
+			(uuid "6689d9c3-340b-463f-b935-b4670d402f85")
+		)
+		(instances
+			(project "LipoBatteryCharger"
+				(path "/9408ae3f-3c4e-4eeb-bbe4-33ab1678b0d2"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -10723,7 +11085,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:PMOS")
-		(at 391.16 152.4 0)
+		(at 391.16 139.7 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -10735,7 +11097,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa2a96ad-f001-45f4-82c2-437f5dce8a91")
 		(property "Reference" "Q4"
-			(at 397.51 151.1299 0)
+			(at 397.51 138.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10746,7 +11108,7 @@
 			)
 		)
 		(property "Value" "PMOS"
-			(at 397.51 153.6699 0)
+			(at 397.51 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10757,7 +11119,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 396.24 154.94 0)
+			(at 396.24 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10768,7 +11130,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-			(at 391.16 139.7 0)
+			(at 391.16 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10779,7 +11141,7 @@
 			)
 		)
 		(property "Description" "P-MOSFET transistor, drain/source/gate"
-			(at 391.16 152.4 0)
+			(at 391.16 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10790,7 +11152,7 @@
 			)
 		)
 		(property "Sim.Device" "PMOS"
-			(at 391.16 135.255 0)
+			(at 391.16 122.555 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10801,7 +11163,7 @@
 			)
 		)
 		(property "Sim.Type" "VDMOS"
-			(at 391.16 133.35 0)
+			(at 391.16 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10812,7 +11174,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 391.16 137.16 0)
+			(at 391.16 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11695,7 +12057,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "30"
+		(property "Value" "10"
 			(at 345.44 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12158,7 +12520,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:PMOS")
-		(at 340.36 152.4 0)
+		(at 340.36 139.7 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -12170,7 +12532,7 @@
 		(fields_autoplaced yes)
 		(uuid "dcf7a5e0-833d-4e53-9293-7654bc24c8d7")
 		(property "Reference" "Q3"
-			(at 346.71 151.1299 0)
+			(at 346.71 138.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12181,7 +12543,7 @@
 			)
 		)
 		(property "Value" "PMOS"
-			(at 346.71 153.6699 0)
+			(at 346.71 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12192,7 +12554,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 345.44 154.94 0)
+			(at 345.44 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12203,7 +12565,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-			(at 340.36 139.7 0)
+			(at 340.36 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12214,7 +12576,7 @@
 			)
 		)
 		(property "Description" "P-MOSFET transistor, drain/source/gate"
-			(at 340.36 152.4 0)
+			(at 340.36 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12225,7 +12587,7 @@
 			)
 		)
 		(property "Sim.Device" "PMOS"
-			(at 340.36 135.255 0)
+			(at 340.36 122.555 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12236,7 +12598,7 @@
 			)
 		)
 		(property "Sim.Type" "VDMOS"
-			(at 340.36 133.35 0)
+			(at 340.36 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12247,7 +12609,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 340.36 137.16 0)
+			(at 340.36 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
